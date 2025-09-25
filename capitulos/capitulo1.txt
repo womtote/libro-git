@@ -1,0 +1,1 @@
+git es un sistema de de control de verciones ideado por linux torvaland
